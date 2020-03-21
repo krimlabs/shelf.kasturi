@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 592 1000">
+  <g transform="matrix(1 0 0 -1 0 800)">
+   <path fill="currentColor"
+d="M289 -12q-57 0 -103 18.5t-77.5 52.5t-48.5 83t-17 110q0 57 14 103.5t40.5 79.5t63.5 51t83 18q94 0 143 -78l6 2q-14 47 -39.5 93t-58.5 88l-93 -60l-36 48l90 58q-26 27 -58 51.5t-65 41.5h96q22 -11 45.5 -24t44.5 -28l99 64l36 -48l-84 -54q34 -30 63.5 -68.5
+t51.5 -85.5t35 -105t13 -127q0 -73 -17.5 -126.5t-49.5 -88.5t-77 -52t-100 -17zM288 52q51 0 79 32t28 96v120q0 64 -28 96t-79 32t-79 -32t-28 -96v-120q0 -64 28 -96t79 -32z" />
+  </g>
+
+</svg>
