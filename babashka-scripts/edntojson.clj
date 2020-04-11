@@ -22,8 +22,11 @@
 
 (defn edn->json [path]
   (let [json-path (str/replace path #".edn" ".json")]
-    (println :> path :--> json-path )
-    (spit json-path (json/encode (slurp path)))))
+    (println path :---> json-path)
+    (spit json-path
+          (json/generate-string
+           (edn/read-string (slurp path))
+           {:pretty true}))))
 
 (let [[source-dir] args
       ednz (ls-edn-files source-dir)]

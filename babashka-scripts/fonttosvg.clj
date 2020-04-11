@@ -65,11 +65,8 @@
           (partial process-font-file sans-serif-dir sink-dir index-atom :sans-serif)
           (list-files sans-serif-dir)))
 
-  (println "Writing meta...")
-  (spit (str sink-dir "/meta.edn")
-        (prn-str @index-atom))
-
-  (spit (str sink-dir "/meta.json")
-        (prn-str (json/encode @index-atom)))
+  (println "Writing index...")
+  (spit (str sink-dir "/index.json")
+        (json/generate-string @index-atom {:pretty true}))
   )
 
