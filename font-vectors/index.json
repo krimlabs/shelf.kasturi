@@ -1,13 +1,13 @@
 [ {
-  "normalized-name" : "saintgeorge-regular",
-  "family" : "serif",
-  "raw" : "SaintGeorge-regular.otf",
-  "base-name" : "SaintGeorge-regular"
-}, {
   "normalized-name" : "merriweather-bold",
   "family" : "serif",
   "raw" : "Merriweather-Bold.ttf",
   "base-name" : "Merriweather-Bold"
+}, {
+  "normalized-name" : "saintgeorge-regular",
+  "family" : "serif",
+  "raw" : "SaintGeorge-regular.otf",
+  "base-name" : "SaintGeorge-regular"
 }, {
   "normalized-name" : "ebgaramond-regular",
   "family" : "serif",
@@ -59,11 +59,6 @@
   "raw" : "Faustina-ExtraBoldItalic.ttf",
   "base-name" : "Faustina-ExtraBoldItalic"
 }, {
-  "normalized-name" : null,
-  "family" : "serif",
-  "raw" : ".DS_Store",
-  "base-name" : null
-}, {
   "normalized-name" : "ibmplexserif-regular",
   "family" : "serif",
   "raw" : "IBMPlexSerif-Regular.ttf",
@@ -84,15 +79,15 @@
   "raw" : "EBGaramond-Italic.ttf",
   "base-name" : "EBGaramond-Italic"
 }, {
-  "normalized-name" : "ibmplexserif-bolditalic",
-  "family" : "serif",
-  "raw" : "IBMPlexSerif-BoldItalic.ttf",
-  "base-name" : "IBMPlexSerif-BoldItalic"
-}, {
   "normalized-name" : "cenotaph-regular",
   "family" : "serif",
   "raw" : "Cenotaph-regular.otf",
   "base-name" : "Cenotaph-regular"
+}, {
+  "normalized-name" : "ibmplexserif-bolditalic",
+  "family" : "serif",
+  "raw" : "IBMPlexSerif-BoldItalic.ttf",
+  "base-name" : "IBMPlexSerif-BoldItalic"
 }, {
   "normalized-name" : "faustina-semibolditalic",
   "family" : "serif",
@@ -114,35 +109,35 @@
   "raw" : "EBGaramond-BoldItalic.ttf",
   "base-name" : "EBGaramond-BoldItalic"
 }, {
-  "normalized-name" : "faustina-semibold",
-  "family" : "serif",
-  "raw" : "Faustina-SemiBold.ttf",
-  "base-name" : "Faustina-SemiBold"
-}, {
   "normalized-name" : "unna-regular",
   "family" : "serif",
   "raw" : "Unna-Regular.ttf",
   "base-name" : "Unna-Regular"
+}, {
+  "normalized-name" : "faustina-semibold",
+  "family" : "serif",
+  "raw" : "Faustina-SemiBold.ttf",
+  "base-name" : "Faustina-SemiBold"
 }, {
   "normalized-name" : "unna-mediumitalic",
   "family" : "serif",
   "raw" : "Unna-MediumItalic.ttf",
   "base-name" : "Unna-MediumItalic"
 }, {
-  "normalized-name" : "ibmplexserif-semibold",
+  "normalized-name" : "saros-regular",
   "family" : "serif",
-  "raw" : "IBMPlexSerif-SemiBold.ttf",
-  "base-name" : "IBMPlexSerif-SemiBold"
+  "raw" : "Saros-Regular.ttf",
+  "base-name" : "Saros-Regular"
 }, {
   "normalized-name" : "merriweather-bolditalic",
   "family" : "serif",
   "raw" : "Merriweather-BoldItalic.ttf",
   "base-name" : "Merriweather-BoldItalic"
 }, {
-  "normalized-name" : "saros-regular",
+  "normalized-name" : "ibmplexserif-semibold",
   "family" : "serif",
-  "raw" : "Saros-Regular.ttf",
-  "base-name" : "Saros-Regular"
+  "raw" : "IBMPlexSerif-SemiBold.ttf",
+  "base-name" : "IBMPlexSerif-SemiBold"
 }, {
   "normalized-name" : "ebgaramond-semibolditalic",
   "family" : "serif",
@@ -154,6 +149,11 @@
   "raw" : "Faustina-ExtraBold.ttf",
   "base-name" : "Faustina-ExtraBold"
 }, {
+  "normalized-name" : "librebaskerville-italic",
+  "family" : "serif",
+  "raw" : "LibreBaskerville-Italic.ttf",
+  "base-name" : "LibreBaskerville-Italic"
+}, {
   "normalized-name" : "unna-bold",
   "family" : "serif",
   "raw" : "Unna-Bold.ttf",
@@ -163,11 +163,6 @@
   "family" : "serif",
   "raw" : "LibreBodoni-BoldItalic.ttf",
   "base-name" : "LibreBodoni-BoldItalic"
-}, {
-  "normalized-name" : "librebaskerville-italic",
-  "family" : "serif",
-  "raw" : "LibreBaskerville-Italic.ttf",
-  "base-name" : "LibreBaskerville-Italic"
 }, {
   "normalized-name" : "ibmplexserif-italic",
   "family" : "serif",
@@ -199,11 +194,6 @@
   "raw" : "Fenix-Regular.ttf",
   "base-name" : "Fenix-Regular"
 }, {
-  "normalized-name" : "merriweather-blackitalic",
-  "family" : "serif",
-  "raw" : "Merriweather-BlackItalic.ttf",
-  "base-name" : "Merriweather-BlackItalic"
-}, {
   "normalized-name" : "marta-italic",
   "family" : "serif",
   "raw" : "Marta_Italic.otf",
@@ -213,6 +203,11 @@
   "family" : "serif",
   "raw" : "Faustina-BoldItalic.ttf",
   "base-name" : "Faustina-BoldItalic"
+}, {
+  "normalized-name" : "merriweather-blackitalic",
+  "family" : "serif",
+  "raw" : "Merriweather-BlackItalic.ttf",
+  "base-name" : "Merriweather-BlackItalic"
 }, {
   "normalized-name" : "faustina-light",
   "family" : "serif",
@@ -224,85 +219,85 @@
   "raw" : "IBMPlexSerif-Medium.ttf",
   "base-name" : "IBMPlexSerif-Medium"
 }, {
-  "normalized-name" : "ebgaramond-mediumitalic",
-  "family" : "serif",
-  "raw" : "EBGaramond-MediumItalic.ttf",
-  "base-name" : "EBGaramond-MediumItalic"
-}, {
-  "normalized-name" : "faustina-regular",
-  "family" : "serif",
-  "raw" : "Faustina-Regular.ttf",
-  "base-name" : "Faustina-Regular"
-}, {
-  "normalized-name" : "openbaskerville-regular",
-  "family" : "serif",
-  "raw" : "OpenBaskerville-Regular.otf",
-  "base-name" : "OpenBaskerville-Regular"
-}, {
   "normalized-name" : "unna-lightitalic",
   "family" : "serif",
   "raw" : "Unna-LightItalic.ttf",
   "base-name" : "Unna-LightItalic"
-}, {
-  "normalized-name" : "librebaskerville-bold",
-  "family" : "serif",
-  "raw" : "LibreBaskerville-Bold.ttf",
-  "base-name" : "LibreBaskerville-Bold"
 }, {
   "normalized-name" : "ibmplexserif-light",
   "family" : "serif",
   "raw" : "IBMPlexSerif-Light.ttf",
   "base-name" : "IBMPlexSerif-Light"
 }, {
+  "normalized-name" : "openbaskerville-regular",
+  "family" : "serif",
+  "raw" : "OpenBaskerville-Regular.otf",
+  "base-name" : "OpenBaskerville-Regular"
+}, {
+  "normalized-name" : "ebgaramond-mediumitalic",
+  "family" : "serif",
+  "raw" : "EBGaramond-MediumItalic.ttf",
+  "base-name" : "EBGaramond-MediumItalic"
+}, {
+  "normalized-name" : "librebaskerville-bold",
+  "family" : "serif",
+  "raw" : "LibreBaskerville-Bold.ttf",
+  "base-name" : "LibreBaskerville-Bold"
+}, {
+  "normalized-name" : "faustina-regular",
+  "family" : "serif",
+  "raw" : "Faustina-Regular.ttf",
+  "base-name" : "Faustina-Regular"
+}, {
   "normalized-name" : "ibmplexserif-thin",
   "family" : "serif",
   "raw" : "IBMPlexSerif-Thin.ttf",
   "base-name" : "IBMPlexSerif-Thin"
-}, {
-  "normalized-name" : "faustina-italic",
-  "family" : "serif",
-  "raw" : "Faustina-Italic.ttf",
-  "base-name" : "Faustina-Italic"
 }, {
   "normalized-name" : "librebodoni-bold",
   "family" : "serif",
   "raw" : "LibreBodoni-Bold.ttf",
   "base-name" : "LibreBodoni-Bold"
 }, {
+  "normalized-name" : "faustina-italic",
+  "family" : "serif",
+  "raw" : "Faustina-Italic.ttf",
+  "base-name" : "Faustina-Italic"
+}, {
   "normalized-name" : "faustina-lightitalic",
   "family" : "serif",
   "raw" : "Faustina-LightItalic.ttf",
   "base-name" : "Faustina-LightItalic"
-}, {
-  "normalized-name" : "merriweather-italic",
-  "family" : "serif",
-  "raw" : "Merriweather-Italic.ttf",
-  "base-name" : "Merriweather-Italic"
 }, {
   "normalized-name" : "librebodoni-italic",
   "family" : "serif",
   "raw" : "LibreBodoni-Italic.ttf",
   "base-name" : "LibreBodoni-Italic"
 }, {
-  "normalized-name" : "ibmplexserif-mediumitalic",
+  "normalized-name" : "merriweather-italic",
   "family" : "serif",
-  "raw" : "IBMPlexSerif-MediumItalic.ttf",
-  "base-name" : "IBMPlexSerif-MediumItalic"
+  "raw" : "Merriweather-Italic.ttf",
+  "base-name" : "Merriweather-Italic"
 }, {
   "normalized-name" : "ibmplexserif-semibolditalic",
   "family" : "serif",
   "raw" : "IBMPlexSerif-SemiBoldItalic.ttf",
   "base-name" : "IBMPlexSerif-SemiBoldItalic"
 }, {
-  "normalized-name" : "unna-italic",
+  "normalized-name" : "ibmplexserif-mediumitalic",
   "family" : "serif",
-  "raw" : "Unna-Italic.ttf",
-  "base-name" : "Unna-Italic"
+  "raw" : "IBMPlexSerif-MediumItalic.ttf",
+  "base-name" : "IBMPlexSerif-MediumItalic"
 }, {
   "normalized-name" : "unna-light",
   "family" : "serif",
   "raw" : "Unna-Light.ttf",
   "base-name" : "Unna-Light"
+}, {
+  "normalized-name" : "unna-italic",
+  "family" : "serif",
+  "raw" : "Unna-Italic.ttf",
+  "base-name" : "Unna-Italic"
 }, {
   "normalized-name" : "ibmplexserif-lightitalic",
   "family" : "serif",
@@ -314,20 +309,15 @@
   "raw" : "Merriweather-Black.ttf",
   "base-name" : "Merriweather-Black"
 }, {
-  "normalized-name" : "ebgaramond-extrabolditalic",
-  "family" : "serif",
-  "raw" : "EBGaramond-ExtraBoldItalic.ttf",
-  "base-name" : "EBGaramond-ExtraBoldItalic"
-}, {
   "normalized-name" : "ebgaramond-extrabold",
   "family" : "serif",
   "raw" : "EBGaramond-ExtraBold.ttf",
   "base-name" : "EBGaramond-ExtraBold"
 }, {
-  "normalized-name" : "librebodoni-regular",
+  "normalized-name" : "ebgaramond-extrabolditalic",
   "family" : "serif",
-  "raw" : "LibreBodoni-Regular.ttf",
-  "base-name" : "LibreBodoni-Regular"
+  "raw" : "EBGaramond-ExtraBoldItalic.ttf",
+  "base-name" : "EBGaramond-ExtraBoldItalic"
 }, {
   "normalized-name" : "faustina-bold",
   "family" : "serif",
@@ -338,6 +328,11 @@
   "family" : "serif",
   "raw" : "Quattrocento-Regular.ttf",
   "base-name" : "Quattrocento-Regular"
+}, {
+  "normalized-name" : "librebodoni-regular",
+  "family" : "serif",
+  "raw" : "LibreBodoni-Regular.ttf",
+  "base-name" : "LibreBodoni-Regular"
 }, {
   "normalized-name" : "merriweather-lightitalic",
   "family" : "serif",
@@ -379,40 +374,35 @@
   "raw" : "AndersonGrotesk-Bold.otf",
   "base-name" : "AndersonGrotesk-Bold"
 }, {
-  "normalized-name" : null,
+  "normalized-name" : "andersongrotesk-oblique",
   "family" : "sans-serif",
-  "raw" : ".DS_Store",
-  "base-name" : null
+  "raw" : "AndersonGrotesk-Oblique.otf",
+  "base-name" : "AndersonGrotesk-Oblique"
 }, {
   "normalized-name" : "atami-display-regular",
   "family" : "sans-serif",
   "raw" : "Atami-Display-Regular.otf",
   "base-name" : "Atami-Display-Regular"
 }, {
-  "normalized-name" : "andersongrotesk-oblique",
-  "family" : "sans-serif",
-  "raw" : "AndersonGrotesk-Oblique.otf",
-  "base-name" : "AndersonGrotesk-Oblique"
-}, {
   "normalized-name" : "kotorirose-bold",
   "family" : "sans-serif",
   "raw" : "KotoriRose-Bold.otf",
   "base-name" : "KotoriRose-Bold"
-}, {
-  "normalized-name" : "aganè 45 (light)",
-  "family" : "sans-serif",
-  "raw" : "Aganè 45 (light).ttf",
-  "base-name" : "Aganè 45 (light)"
 }, {
   "normalized-name" : "andersongrotesk-ultrabold",
   "family" : "sans-serif",
   "raw" : "AndersonGrotesk-Ultrabold.otf",
   "base-name" : "AndersonGrotesk-Ultrabold"
 }, {
-  "normalized-name" : "hanken-light",
+  "normalized-name" : "aganè 45 (light)",
   "family" : "sans-serif",
-  "raw" : "Hanken-Light.ttf",
-  "base-name" : "Hanken-Light"
+  "raw" : "Aganè 45 (light).ttf",
+  "base-name" : "Aganè 45 (light)"
+}, {
+  "normalized-name" : "fivosans-oblique",
+  "family" : "sans-serif",
+  "raw" : "FivoSans-Oblique.otf",
+  "base-name" : "FivoSans-Oblique"
 }, {
   "normalized-name" : "fivosans-heavy",
   "family" : "sans-serif",
@@ -424,10 +414,10 @@
   "raw" : "Atami-Stencil.otf",
   "base-name" : "Atami-Stencil"
 }, {
-  "normalized-name" : "fivosans-oblique",
+  "normalized-name" : "hanken-light",
   "family" : "sans-serif",
-  "raw" : "FivoSans-Oblique.otf",
-  "base-name" : "FivoSans-Oblique"
+  "raw" : "Hanken-Light.ttf",
+  "base-name" : "Hanken-Light"
 }, {
   "normalized-name" : "andersongrotesk-black",
   "family" : "sans-serif",
@@ -444,70 +434,70 @@
   "raw" : "FivoSans-Medium-Oblique.otf",
   "base-name" : "FivoSans-Medium-Oblique"
 }, {
-  "normalized-name" : "atami-display-bold",
-  "family" : "sans-serif",
-  "raw" : "Atami-Display-Bold.otf",
-  "base-name" : "Atami-Display-Bold"
-}, {
   "normalized-name" : "kotorirose-regular",
   "family" : "sans-serif",
   "raw" : "KotoriRose-Regular.otf",
   "base-name" : "KotoriRose-Regular"
 }, {
-  "normalized-name" : "andersongrotesk-lightoblique",
+  "normalized-name" : "atami-display-bold",
   "family" : "sans-serif",
-  "raw" : "AndersonGrotesk-LightOblique.otf",
-  "base-name" : "AndersonGrotesk-LightOblique"
+  "raw" : "Atami-Display-Bold.otf",
+  "base-name" : "Atami-Display-Bold"
 }, {
   "normalized-name" : "andersongrotesk",
   "family" : "sans-serif",
   "raw" : "AndersonGrotesk.otf",
   "base-name" : "AndersonGrotesk"
 }, {
-  "normalized-name" : "tempo",
+  "normalized-name" : "andersongrotesk-lightoblique",
   "family" : "sans-serif",
-  "raw" : "Tempo.ttf",
-  "base-name" : "Tempo"
+  "raw" : "AndersonGrotesk-LightOblique.otf",
+  "base-name" : "AndersonGrotesk-LightOblique"
 }, {
   "normalized-name" : "andersongrotesk-boldoblique",
   "family" : "sans-serif",
   "raw" : "AndersonGrotesk-BoldOblique.otf",
   "base-name" : "AndersonGrotesk-BoldOblique"
 }, {
+  "normalized-name" : "tempo",
+  "family" : "sans-serif",
+  "raw" : "Tempo.ttf",
+  "base-name" : "Tempo"
+}, {
   "normalized-name" : "fivosans-heavy-oblique",
   "family" : "sans-serif",
   "raw" : "FivoSans-Heavy-Oblique.otf",
   "base-name" : "FivoSans-Heavy-Oblique"
-}, {
-  "normalized-name" : "aganè 75 (extra bold) sign",
-  "family" : "sans-serif",
-  "raw" : "Aganè 75 (Extra Bold) sign.ttf",
-  "base-name" : "Aganè 75 (Extra Bold) sign"
 }, {
   "normalized-name" : "andersongrotesk-light",
   "family" : "sans-serif",
   "raw" : "AndersonGrotesk-Light.otf",
   "base-name" : "AndersonGrotesk-Light"
 }, {
+  "normalized-name" : "aganè 75 (extra bold) sign",
+  "family" : "sans-serif",
+  "raw" : "Aganè 75 (Extra Bold) sign.ttf",
+  "base-name" : "Aganè 75 (Extra Bold) sign"
+}, {
   "normalized-name" : "aganè 65 (bold)",
   "family" : "sans-serif",
   "raw" : "Aganè 65 (Bold).ttf",
   "base-name" : "Aganè 65 (Bold)"
 }, {
-  "normalized-name" : "fivosans-black-oblique",
+  "normalized-name" : "aganè 65 (bold) sign",
   "family" : "sans-serif",
-  "raw" : "FivoSans-Black-Oblique.otf",
-  "base-name" : "FivoSans-Black-Oblique"
+  "raw" : "Aganè 65 (Bold) sign.ttf",
+  "base-name" : "Aganè 65 (Bold) sign"
 }, {
   "normalized-name" : "fivosans-regular",
   "family" : "sans-serif",
   "raw" : "FivoSans-Regular.otf",
   "base-name" : "FivoSans-Regular"
 }, {
-  "normalized-name" : "aganè 65 (bold) sign",
+  "normalized-name" : "fivosans-black-oblique",
   "family" : "sans-serif",
-  "raw" : "Aganè 65 (Bold) sign.ttf",
-  "base-name" : "Aganè 65 (Bold) sign"
+  "raw" : "FivoSans-Black-Oblique.otf",
+  "base-name" : "FivoSans-Black-Oblique"
 }, {
   "normalized-name" : "abster",
   "family" : "sans-serif",
@@ -518,6 +508,11 @@
   "family" : "sans-serif",
   "raw" : "FivoSans-Black.otf",
   "base-name" : "FivoSans-Black"
+}, {
+  "normalized-name" : "aganè 55 (roman)",
+  "family" : "sans-serif",
+  "raw" : "Aganè 55 (roman).ttf",
+  "base-name" : "Aganè 55 (roman)"
 }, {
   "normalized-name" : "aganè 55 (roman) sign",
   "family" : "sans-serif",
@@ -533,11 +528,6 @@
   "family" : "sans-serif",
   "raw" : "FivoSans-Bold.otf",
   "base-name" : "FivoSans-Bold"
-}, {
-  "normalized-name" : "aganè 55 (roman)",
-  "family" : "sans-serif",
-  "raw" : "Aganè 55 (roman).ttf",
-  "base-name" : "Aganè 55 (roman)"
 }, {
   "normalized-name" : "atami-regular",
   "family" : "sans-serif",

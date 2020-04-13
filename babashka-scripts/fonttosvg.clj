@@ -16,14 +16,13 @@
             command))
 
 (defn font->svg [font-path font-file-name source-dir]
-  (when (not= font-file-name ".DS_Store")
-    (println "Processing" font-file-name "in" font-path)
-    (let [command (str "cd " font-path
-                       "; fontforge -lang=ff -c 'Open(\"" source-dir "/" font-file-name
-                       "\"); SelectWorthOutputting(); foreach Export(\"svg\"); endloop;'" )]
-      ;;(println command)
-      (bash command)
-      )))
+  (println "Processing" font-file-name "in" font-path)
+  (let [command (str "cd " font-path
+                     "; fontforge -lang=ff -c 'Open(\"" source-dir "/" font-file-name
+                     "\"); SelectWorthOutputting(); foreach Export(\"svg\"); endloop;'" )]
+    ;;(println command)
+    (bash command)
+    ))
 
 (defn list-files [dir]
   (->> dir
@@ -40,16 +39,17 @@
                               (str/replace #"_" "-")))
         font-path (str sink-dir "/" normalized-name)]
 
-    (.mkdir (java.io.File. font-path))
-    ;; if path doesn't exist, vectors will be spit in dir of execution
-    (wait/wait-for-path font-path)
+    (when basename
+      (.mkdir (java.io.File. font-path))
+      ;; if path doesn't exist, vectors will be spit in dir of execution
+      (wait/wait-for-path font-path)
 
-    (swap! index-atom conj {:family family
-                            :normalized-name normalized-name
-                            :base-name basename
-                            :raw raw-name})
-    (font->svg (str sink-dir "/" normalized-name)
-               raw-name src-dir)
+      (swap! index-atom conj {:family family
+                              :normalized-name normalized-name
+                              :base-name basename
+                              :raw raw-name})
+      (font->svg (str sink-dir "/" normalized-name)
+                 raw-name src-dir))
     ))
 
 
